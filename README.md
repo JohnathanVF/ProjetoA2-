@@ -14,9 +14,10 @@ Escolhemos o tema **Política Acessível** por entender a importância de promov
 
 ## 👨‍💻 Integrantes do Grupo
 
-*   **Gabriel Silva** - *Desenvolvimento Front-end*
-*   **Lucas Santos** - *Estruturação de Conteúdo e UX/UI*
-*   **Mateus Oliveira** - *Estilização e Acessibilidade*
+*   **Johnathan Fernandes** - *Desenvolvimento Front-end*
+*   **Kaiky Vieira** - *Estruturação de Conteúdo e UX/UI*
+*   **Daniel Biazzuto** - *Estilização e Acessibilidade*
+*   **Jonathan ** - *Estilização*
 
 ---
 
